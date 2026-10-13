@@ -50,7 +50,7 @@ Ao trabalhar com situações inspiradas na realidade brasileira, o Guardiões do
 O projeto poderá ser acessado pelo navegador quando publicado e compartilhado na plataforma Scratch.
 
 - **Jogar online:** [Guardiões do ECA](https://scratch.mit.edu/projects/1221262893/)
-- **Acessar a versão web:** [Adicionar link do GitHub Pages]
+- **Acessar a versão web:** [Acesse no GitHub Pages](https://johnmcart.github.io/Guardioes-ECA/))
 
 > Os links serão preenchidos após a publicação do projeto.
 
@@ -92,7 +92,7 @@ Projeto desenvolvido por:
 O projeto tem como referência o Estatuto da Criança e do Adolescente, instituído pela Lei nº 8.069, de 13 de julho de 1990, e dialoga com estudos sobre jogos educativos, aprendizagem ativa e educação em direitos humanos.
 
 - [Estatuto da Criança e do Adolescente — Presidência da República](https://www.planalto.gov.br/ccivil_03/leis/l8069.htm)
-- [Scratch — plataforma de programação criativa](https://scratch.mit.edu/projects/1221262893/)
+- [Scratch — plataforma de programação criativa](https://scratch.mit.edu/)
 
 ---
 
