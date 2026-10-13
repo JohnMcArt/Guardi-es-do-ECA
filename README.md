@@ -49,7 +49,7 @@ Ao trabalhar com situações inspiradas na realidade brasileira, o Guardiões do
 
 O projeto poderá ser acessado pelo navegador quando publicado e compartilhado na plataforma Scratch.
 
-- **Jogar online:** [Adicionar link do projeto no Scratch](https://scratch.mit.edu/projects/1221262893/)
+- **Jogar online:** [Guardiões do ECA](https://scratch.mit.edu/projects/1221262893/)
 - **Acessar a versão web:** [Adicionar link do GitHub Pages]
 
 > Os links serão preenchidos após a publicação do projeto.
